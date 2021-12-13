@@ -1,0 +1,4 @@
+##Comandos Básicos Git
+git status - Mostra o status do repositório
+git add . - Adiciona as modificações
+git commit -m "###" - Comenta as alterações
