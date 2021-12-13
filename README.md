@@ -5,7 +5,7 @@
 -->
 - Aqui cito algumas coisas sobre mim:
 
-🔭 No momento, estou trabalhando como Analista de Sistemas
+🔭 No momento, estou trabalhando como Analista de Sistemas.
 🌱 Estou aprendendo Html, Css, JavaScript, React, MongoDb;
 <!--
 👯 Estou procurando colaborar em
