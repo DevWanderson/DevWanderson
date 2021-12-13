@@ -6,10 +6,10 @@
 - Aqui cito algumas coisas sobre mim:
 
 🔭 No momento, estou trabalhando como Analista de Sistemas;<br>
-🌱 Estou aprendendo Html, Css, JavaScript, React, MongoDb;
-Interessado em Programação, Hardware, Games e Música;
-🤔 Estou procurando ajuda com Projetos para meu portifólio;
-📫 Como chegar até mim: guedesw3@gmail.com.
+🌱 Estou aprendendo Html, Css, JavaScript, React, MongoDb;<br>
+Interessado em Programação, Hardware, Games e Música;<br>
+🤔 Estou procurando ajuda com Projetos para meu portifólio;<br>
+📫 Como chegar até mim: guedesw3@gmail.com.<br>
 
 <!--
 👯 Estou procurando colaborar em
