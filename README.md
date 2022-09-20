@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wanderson 👋
 <!--
-**GwandersonL/GwandersonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevWanderson/DevWanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##
 🔭 No momento, estou trabalhando como Analista de Sistemas;<br>
@@ -10,7 +10,7 @@
 📫 Como chegar até mim: guedesw3@gmail.com.<br>
 ##
 <div style="display: inline">
-  <a href="https://github.com/GwandersonL">
+  <a href="https://github.com/DevWanderson">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gwandersonl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwandersonl&layout=compact&langs_count=7&theme=algolia"/>
 </div>
