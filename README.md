@@ -3,7 +3,7 @@
 **DevWanderson/DevWanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##
-🔭 No momento, estou trabalhando como Analista de Sistemas;<br>
+🔭 Tenho experiência como Analista/Desenvolvedor em projeto de P&D em Internet das coisas, onde desenvolvi a documentação do projeto e após fui convidado a fazer parte da equipe de FrontEnd;<br>
 🌱 Estou aprendendo Html, Css, JavaScript, React, MongoDb;<br>
  :smile: Interessado em Programação, Hardware, Games e Música;<br>
 🤔 Estou procurando ajuda com Projetos para meu portifólio;<br>
