@@ -1,9 +1,10 @@
 ### Olá, eu sou o Wanderson 👋
+++Atualmente atuo como DevOps
 <!--
 **DevWanderson/DevWanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##
-🔭 Tenho experiência como Analista/Desenvolvedor em projeto de P&D em Internet das coisas, onde desenvolvi a documentação do projeto e após fui convidado a fazer parte da equipe de FrontEnd;<br>
+🔭 Tenho experiência como Analista/Desenvolvedor em projeto de P&D em Internet das coisas, onde desenvolvi a documentação do projeto e fiz parte da equipe de FrontEnd;<br>
 🌱 Estou aprendendo Html, Css, JavaScript, React, MongoDb;<br>
  :smile: Interessado em Programação, Hardware, Games e Música;<br>
 🤔 Estou procurando ajuda com Projetos para meu portifólio;<br>
@@ -16,7 +17,7 @@
 </div>
  
 ##
-### Linguagens que tenho conhecimento
+### Tecnologias que tenho conhecimento
 <div style="display: inline_block"><br>
   <img align="center" alt="WGL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="WGL-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
