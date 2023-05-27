@@ -1,5 +1,5 @@
 ## Olá, eu sou o Wanderson 👋
-#### Atualmente atuo como Analista de Infraestrutura e DevOps
+#### Atualmente atuo como Analista de Infraestrutura - DevOps
 <!--
 **DevWanderson/DevWanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
